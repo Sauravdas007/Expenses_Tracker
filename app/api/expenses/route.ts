@@ -67,7 +67,6 @@ export async function POST(req: NextRequest) {
   if (idemKey) {
     const existing = await prisma.idempotencyRecord.findUnique({
       where: { key: idemKey },
-      include: { /* no relation, fetch separately */ },
     });
     if (existing) {
       const exp = await prisma.expense.findUnique({
