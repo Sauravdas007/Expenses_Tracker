@@ -1,7 +1,7 @@
 // Prisma schema — expense tracker
 // Swap `provider` + DATABASE_URL to postgresql/mysql for production scale.
 datasource db {
-  provider = "sqlite"
+  provider = "postgresql"
   url      = env("DATABASE_URL")
 }
 
