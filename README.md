@@ -1,7 +1,14 @@
 
 # Expenses Tracker
-Try out the live demo here:  
-👉 [Expense Tracker](https://expenses-tracker-pi-seven.vercel.app/)
+# 💰 Expense Tracker App
+
+<div align="center">
+
+<a href="https://expenses-tracker-pi-seven.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Try%20Demo-Expense%20Tracker-orange?style=for-the-badge&logo=vercel" alt="Expense Tracker Demo"/>
+</a>
+
+</div>
 <img width="1918" height="1133" alt="Screenshot 2026-04-27 214043" src="https://github.com/user-attachments/assets/dbd1c0a8-836c-4275-8e14-0334efb45224" />
 
 A small, production-upgradable, **Vercel-deployable** full-stack expense tracker built for the "As a user, I can record and review my personal expenses" assignment.
