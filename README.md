@@ -148,6 +148,4 @@ frontend/
 └── vercel.json
 ```
 
-## AI-assisted tools note
 
-This codebase was developed with AI-assisted tooling (LLM pair-programming). All architecture, trade-offs, validation rules, and idempotency design are intentional choices; the AI was used for scaffolding, type plumbing, and reducing boilerplate.
